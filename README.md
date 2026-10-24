@@ -1,2 +1,1 @@
-# kod_fixer
-Исправленный код для weather_bot
+# Исправленный код для weather_bot
